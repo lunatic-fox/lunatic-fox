@@ -4,15 +4,7 @@
 
 <div align="center">
 
-![](https://gh-tags.vercel.app/api?lang=html&size=small)
-![](https://gh-tags.vercel.app/api?lang=css&size=small)
-![](https://gh-tags.vercel.app/api?lang=javascript&size=small)
-![](https://gh-tags.vercel.app/api?lang=json&size=small)
-![](https://gh-tags.vercel.app/api?lang=typescript&size=small)
-![](https://gh-tags.vercel.app/api?lang=lua&size=small)
-![](https://gh-tags.vercel.app/api?lang=json5&size=small)
-![](https://gh-tags.vercel.app/api?lang=yaml&size=small)
-![](https://gh-tags.vercel.app/api?lang=kotlin&size=small)
+![](https://gh-tags.vercel.app/api?lang=html&size=small) ![](https://gh-tags.vercel.app/api?lang=css&size=small) ![](https://gh-tags.vercel.app/api?lang=javascript&size=small) ![](https://gh-tags.vercel.app/api?lang=json&size=small) ![](https://gh-tags.vercel.app/api?lang=typescript&size=small) ![](https://gh-tags.vercel.app/api?lang=lua&size=small) ![](https://gh-tags.vercel.app/api?lang=json5&size=small) ![](https://gh-tags.vercel.app/api?lang=yaml&size=small) ![](https://gh-tags.vercel.app/api?lang=kotlin&size=small)
 	
 </div>
 
