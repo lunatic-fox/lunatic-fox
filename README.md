@@ -3,6 +3,11 @@
 # Hello there, Josélio [/ʒoˈzɛ.ʎu/](http://ipa-reader.xyz/?text=%CA%92o%CB%88z%C9%9B.%CA%8Eu&voice=Ricardo) here! 👋🏼
 </div>
 
+<div align="right">
+  <a href="./crypto-donations">
+    <img src="https://shields.io/badge/Crypto-Donations-098213?logo=bitcoin">
+  </a>
+</div>
 
 ## 🦊 About me
 &emsp;I'm a guy who decided to give a chance to programming in December 2020. And I'm glad that I made it.
