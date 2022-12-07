@@ -36,18 +36,26 @@
 </div>
 
 ## 🖥 Tech languages
-<div align="center">
 
-![](https://gh-tags.vercel.app/api?lang=html&size=small)
-![](https://gh-tags.vercel.app/api?lang=css&size=small)
+### Programming
 ![](https://gh-tags.vercel.app/api?lang=javascript&size=small)
-![](https://gh-tags.vercel.app/api?lang=json&size=small)
 ![](https://gh-tags.vercel.app/api?lang=typescript&size=small)
 ![](https://gh-tags.vercel.app/api?lang=lua&size=small)
-![](https://gh-tags.vercel.app/api?lang=json5&size=small)
-![](https://gh-tags.vercel.app/api?lang=yaml&size=small)
+![](https://gh-tags.vercel.app/api?lang=python&size=small)
 ![](https://gh-tags.vercel.app/api?lang=c-sharp&size=small)
-</div>
+![](https://gh-tags.vercel.app/api?lang=shell&size=small)
+
+
+### Markup
+![](https://gh-tags.vercel.app/api?lang=css&size=small)
+![](https://gh-tags.vercel.app/api?lang=html&size=small)
+
+
+### Data
+![](https://gh-tags.vercel.app/api?lang=json&size=small)
+![](https://gh-tags.vercel.app/api?lang=yaml&size=small)
+![](https://gh-tags.vercel.app/api?lang=json5&size=small)
+
 
 ## ⚙ Tools
 <div align="center">
