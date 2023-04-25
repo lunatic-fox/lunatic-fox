@@ -1,10 +1,13 @@
 <div align="center">
-  
+<a href="">
+  <img alt="StandWithUkraine" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg">
+</a>
+
 # Hello there, Josélio [/ʒoˈzɛ.ʎu/](http://ipa-reader.xyz/?text=%CA%92o%CB%88z%C9%9B.%CA%8Eu&voice=Ricardo) here! 👋🏼
 </div>
 
 <div align="right">
-  <a href="./crypto-donations">
+  <a href="./crypto-donations">    
     <img src="https://shields.io/badge/Crypto-Donations-098213?logo=bitcoin">
   </a>
 </div>
@@ -38,23 +41,37 @@
 ## 🖥 Tech languages
 
 ### Programming
+&emsp; **Regular use**\
+&emsp;&emsp;
 ![](https://gh-tags.vercel.app/api?lang=javascript&size=small)
 ![](https://gh-tags.vercel.app/api?lang=typescript&size=small)
 ![](https://gh-tags.vercel.app/api?lang=lua&size=small)
 ![](https://gh-tags.vercel.app/api?lang=python&size=small)
+![](https://gh-tags.vercel.app/api?lang=tsx&size=small)
+
+&emsp; **Basic syntax**\
+&emsp;&emsp;
+![](https://gh-tags.vercel.app/api?lang=vba&size=small)
+![](https://gh-tags.vercel.app/api?lang=visual-basic-.net&size=small)
 ![](https://gh-tags.vercel.app/api?lang=c-sharp&size=small)
 ![](https://gh-tags.vercel.app/api?lang=shell&size=small)
+![](https://gh-tags.vercel.app/api?lang=pascal&size=small)
+![](https://gh-tags.vercel.app/api?lang=kotlin&size=small)
 
 
 ### Markup
+&emsp;
 ![](https://gh-tags.vercel.app/api?lang=css&size=small)
 ![](https://gh-tags.vercel.app/api?lang=html&size=small)
 
 
 ### Data
+&emsp;
 ![](https://gh-tags.vercel.app/api?lang=json&size=small)
 ![](https://gh-tags.vercel.app/api?lang=yaml&size=small)
 ![](https://gh-tags.vercel.app/api?lang=json5&size=small)
+![](https://gh-tags.vercel.app/api?lang=json-with-comments&size=small)
+![](https://gh-tags.vercel.app/api?lang=csv&size=small)
 
 
 ## ⚙ Tools
