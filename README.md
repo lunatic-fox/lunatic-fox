@@ -3,7 +3,7 @@
   <img alt="StandWithUkraine" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg">
 </a>
 
-# Hello there, Josélio [/ʒoˈzɛ.ʎu/](http://ipa-reader.xyz/?text=%CA%92o%CB%88z%C9%9B.%CA%8Eu&voice=Ricardo) here! 👋🏼
+# Hello there, Josélio [`/ʒoˈzɛ.ʎu/`](http://ipa-reader.xyz/?text=%CA%92o%CB%88z%C9%9B.%CA%8Eu&voice=Ricardo) here! 👋🏼
 </div>
 
 <div align="right">
