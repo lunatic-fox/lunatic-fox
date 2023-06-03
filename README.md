@@ -95,7 +95,7 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatic-fox&langs_count=10&layout=compact&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&border_radius=5&border_color=161b22&card_width=445">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatic-fox&langs_count=10&layout=compact&bg_color=f6f8fa&title_color=24292f&text_color=57606a&border_radius=5&border_color=f6f8fa&card_width=445">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatic-fox&langs_count=10&layout=pie&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&border_radius=5&border_color=161b22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatic-fox&langs_count=10&layout=pie&bg_color=f6f8fa&title_color=24292f&text_color=57606a&border_radius=5&border_color=f6f8fa">
   </picture>
 </p>
