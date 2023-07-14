@@ -27,9 +27,6 @@
   <a href="https://lunaticfox.vercel.app/">
     <img src="https://shields.io/badge/Website-Lunatic Fox-14fff1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEGSURBVCiRdZK9TkJREIS/XajUEIpzfAFjpc+gnT9Ugr6dhb6AEAyB0jewMZbaq5iccwnG6o7FJREuMOVMdjKzu1CH1AzK46A8Qmqu6XVE5U5Qngeln6h8UdetTgSlgbDkmEO592Xt660DUflQ8GL4mcBBE6c8/rT220rmqNyJSv2g/BuUBkiO5EF5WHHFICpfIjVZFJxH5buo2QmSL5l50Ow0Kt9XvfLIgRJkgFcx1rDgZUDpU1pXhvXAdkGTQPEfiWIIGhu261h3ynNvpfS+0kGJvYKfU7mOG5RHH9Z+37rWqNQHKwQubOfbWjfL+oZL2q3QAzgN1N3QqYbqNUZB+RE9rRn+ASRXjmzq2FK9AAAAAElFTkSuQmCC">
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9lio-j%C3%BAnior-a09b6824b/">
-    <img src="https://shields.io/badge/LinkedIn-Josélio Júnior-0A66C2?logo=linkedin">
-  </a>
   <a href="https://twitter.com/Jojo89373534">
     <img src="https://shields.io/badge/Twitter-Lunatic%20Fox-1DA1F2?logo=twitter">
   </a>
