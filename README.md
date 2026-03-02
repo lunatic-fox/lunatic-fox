@@ -79,7 +79,8 @@
   </picture>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-          
+
+ <!--         
 ## 🏷 Status
 <p align="center">
   <picture>
@@ -93,3 +94,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatic-fox&langs_count=10&layout=pie&bg_color=f6f8fa&title_color=24292f&text_color=57606a&border_radius=5&border_color=f6f8fa">
   </picture>
 </p>
+-->
